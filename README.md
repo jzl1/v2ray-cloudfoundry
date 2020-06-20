@@ -12,7 +12,7 @@ english:
 
   
 
-`git clone https://github.com/badafans/v2ray-cloudfoundry.git`
+`git clone https://github.com/jzl1/v2ray-cloudfoundry`
 
 `cd v2ray-cloudfoundry/v2ray`
 
@@ -55,7 +55,7 @@ applications:
 
   
 
-`git clone https://github.com/badafans/v2ray-cloudfoundry.git`
+`git clone https://github.com/jzl1/v2ray-cloudfoundry`
 
 `cd v2ray-cloudfoundry/v2ray`
 
